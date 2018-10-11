@@ -1,0 +1,7 @@
+c:\users\isaacpva45\documents\visual studio 2015\Projects\logmeoff_server\logmeoff_server\bin\Debug\logmeoff_server.exe.config
+c:\users\isaacpva45\documents\visual studio 2015\Projects\logmeoff_server\logmeoff_server\bin\Debug\logmeoff_server.exe
+c:\users\isaacpva45\documents\visual studio 2015\Projects\logmeoff_server\logmeoff_server\bin\Debug\logmeoff_server.pdb
+c:\users\isaacpva45\documents\visual studio 2015\Projects\logmeoff_server\logmeoff_server\bin\Debug\Cassia.dll
+c:\users\isaacpva45\documents\visual studio 2015\Projects\logmeoff_server\logmeoff_server\obj\Debug\logmeoff_server.csprojResolveAssemblyReference.cache
+c:\users\isaacpva45\documents\visual studio 2015\Projects\logmeoff_server\logmeoff_server\obj\Debug\logmeoff_server.exe
+c:\users\isaacpva45\documents\visual studio 2015\Projects\logmeoff_server\logmeoff_server\obj\Debug\logmeoff_server.pdb
